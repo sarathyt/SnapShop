@@ -1,28 +1,3 @@
-# final-project-the-5-musketeers
-final-project-the-5-musketeers created by GitHub Classroom
-Feature requirement:
- 
-
-As a user I should be able to login using some apikey or username/password login.
-As a user, I should be to do search.
-As a user, I should be able to sort the results.
-As a user, I should be able to create a record.
-As a user, I should be able to see detailed view of a record.
-As a user, I should be able to edit a record.
-As a user, I should be able delete a record.
-As a user, I should be able to log out from the application.
-As a user, I should be able to bookmark search, create, edit, view operation URLs.
-
-Technology requirement:
- 
-
-Should use angular, angular-cli and any libraries, you require.
-Should use SCSS, and any CSS frameworks, you require.
-Should document the code and use compodoc for docs generation.
-README.md on your repo should have description, functions and setup instructions about web application.
-
--------------------------------------------------------------------------------------------------------------------------------------
-Snap Shop Application
 
 This is an retail application demonstrating the components needed for a Single Page Application using MongoDB, ExpressJS, Angular 2, and NodeJS.
 
